@@ -1,0 +1,19 @@
+NLP App: 
+Product: A NLP tool for developpers, and laymen. Analyze text, audio, or video data by picking and choosing your analysis type
+from wordclouds, to topic extraction. 
+
+App processes: 
+1) Takes media as input in 2 formats (for now):
+	- Text
+	- Youtube video
+
+2) Choose your analysis type.
+
+3) Choose your output type: 
+	- Python Notebook
+	- Visuals
+
+
+
+
+
