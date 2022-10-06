@@ -3,6 +3,9 @@ Product: A NLP tool for developpers, and laymen. Analyze text, audio, or video d
 from wordclouds, to topic extraction. 
 
 App processes: 
+
+1) Choose for developers or users
+
 1) Takes media as input in 2 formats (for now):
 	- Text
 	- Youtube video
@@ -10,8 +13,8 @@ App processes:
 2) Choose your analysis type.
 
 3) Choose your output type: 
-	- Python Notebook
-	- Visuals
+	- Python Notebook (for developers)
+	- Visuals (for users)
 
 
 
