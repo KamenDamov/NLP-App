@@ -14,7 +14,9 @@ class HomePage extends StatelessWidget{
   Widget build(BuildContext context){
     return Scaffold(
       appBar: AppBar(title: Text("Streamline NLP")),
-      body: Container(child: Text("Hello")),
+      body: Center(child: Container(color: Colors.red,
+      width: 100,
+      height: 100,),),
     );
   }
 }
