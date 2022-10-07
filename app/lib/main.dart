@@ -9,9 +9,8 @@ void main() {
 class HomePage extends StatelessWidget{
   @override
   Widget build(BuildContext context){
-    return Container(
-      color: Colors.blueAccent[300],
-      child: Text("KONJU JEDAN"),
+    return Scaffold(
+      appBar: AppBar(title: Text("DJE SI TI BRE")),
     );
   }
 }
