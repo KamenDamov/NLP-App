@@ -2,8 +2,16 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: Container(
-      color: Colors.green,
-    )
+    home: HomePage()
   ));
+}
+
+class HomePage extends StatelessWidget{
+  @override
+  Widget build(BuildContext context){
+    return Container(
+      color: Colors.blueAccent[300],
+      child: Text("KONJU JEDAN"),
+    );
+  }
 }
