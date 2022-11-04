@@ -17,6 +17,7 @@ class HomePage extends StatelessWidget{
       body: Center(child: Container(
       color: Colors.red,
       width: 100,
+      alignment: Alignment.bottomLeft,
       height: 100,
       child: Text("I'm a box"),
       ),),
