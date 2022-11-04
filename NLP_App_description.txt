@@ -10,7 +10,12 @@ App processes:
 	- Text
 	- Youtube video
 
-2) Choose your analysis type.
+2) Choose your analysis type: 
+	- Sentiment analysis (positive, negative, nuetral)
+	- Word grams (uni, bi, tri, ngrams)
+	- Wordcloud
+	- Topic modeling
+	
 
 3) Choose your output type: 
 	- Python Notebook (for developers)
