@@ -20,6 +20,9 @@ class HomePage extends StatelessWidget{
       alignment: Alignment.bottomLeft,
       height: 100,
       child: Text("I'm a box"),
+      decoration: BoxDecoration(
+        borderRadius: BorderRadius.circular(10)
+      ),
       ),),
     );
   }
